@@ -3,7 +3,7 @@
   "ticker": "10k",
   "data_providers": ["https://api.predomain.xyz", "http://localhost"],
   "patterned": true,
-  "pattern": "^[0-9].{5,5}",
+  "pattern": "^[0-9]{5,5}",
   "alphabetical": false,
   "numeric": true,
   "emojis": false,
