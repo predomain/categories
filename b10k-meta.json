@@ -10,17 +10,6 @@
   "special_characters": false,
   "max_length": 5,
   "version": 2,
-  "statistics": {
-    "previous_daily_volume": 0,
-    "daily_volume": 0,
-    "daily_volume_timestamp:": 0,
-    "previous_hourly_volume": 0,
-    "hourly_volume": 0,
-    "hourly_volume_timestamp": 0,
-    "hourly_sales": 0,
-    "previous_hourly_sales": 0,
-    "hourly_sales_timestamp": 0
-  },
   "valid_names": [
     "•0000",
     "•0001",
