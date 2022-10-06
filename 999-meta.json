@@ -1,6 +1,6 @@
 {
-  "category": "10k",
-  "ticker": "10k",
+  "category": "999",
+  "ticker": "999",
   "data_providers": ["https://api.predomain.xyz", "http://localhost"],
   "patterned": true,
   "pattern": "^[0-9]{3,3}",
