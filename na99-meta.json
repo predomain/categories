@@ -3,7 +3,7 @@
   "ticker": "na99",
   "data_providers": ["https://api.predomain.xyz", "http://localhost"],
   "patterned": true,
-  "pattern": "^[-][٠١٢٣٤٥٦٧٨٩]{2,2}",
+  "pattern": "^[-][٠١٢٣٤٥٦٧٨٩]{2,2}$",
   "alphabetical": false,
   "numeric": true,
   "emojis": false,

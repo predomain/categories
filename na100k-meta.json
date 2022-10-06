@@ -3,7 +3,7 @@
   "ticker": "na100k",
   "data_providers": ["https://api.predomain.xyz", "http://localhost"],
   "patterned": true,
-  "pattern": "^[-][٠١٢٣٤٥٦٧٨٩]{5,5}",
+  "pattern": "^[-][٠١٢٣٤٥٦٧٨٩]{5,5}$",
   "alphabetical": false,
   "numeric": true,
   "emojis": false,
