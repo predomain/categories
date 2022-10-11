@@ -1,7 +1,7 @@
 {
   "category": "b100k",
   "ticker": "b100k",
-  "data_providers": ["https://api.predomain.xyz", "http://localhost"],
+  "data_providers": ["https://api.predomain.xyz", "http://localhost:42069"],
   "patterned": true,
   "pattern": "^[•][0-9]{5,5}$",
   "alphabetical": false,

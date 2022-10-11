@@ -1,7 +1,7 @@
 {
   "category": "u10k",
   "ticker": "u10k",
-  "data_providers": ["https://api.predomain.xyz", "http://localhost"],
+  "data_providers": ["https://api.predomain.xyz", "http://localhost:42069"],
   "patterned": true,
   "pattern": "^[_][0-9]{4,4}$",
   "alphabetical": false,

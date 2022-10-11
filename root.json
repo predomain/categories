@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "rootDataProviders": ["https://api.predomain.xyz", "https://localhost"],
+  "rootDataProviders": ["https://api.predomain.xyz", "https://localhost:42069"],
   "categories": [
     "999",
     "10k",

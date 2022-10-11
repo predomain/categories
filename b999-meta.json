@@ -1,7 +1,7 @@
 {
   "category": "b999",
   "ticker": "b999",
-  "data_providers": ["https://api.predomain.xyz", "http://localhost"],
+  "data_providers": ["https://api.predomain.xyz", "http://localhost:42069"],
   "patterned": true,
   "pattern": "^[•][0-9]{3,3}$",
   "alphabetical": false,
